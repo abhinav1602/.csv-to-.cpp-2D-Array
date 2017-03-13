@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1489421657 source:c:\users\abhin_000\desktop\check\csv table\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<regex>
+	<ctype.h>
+	<stdlib.h>
+
